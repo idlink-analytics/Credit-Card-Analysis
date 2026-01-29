@@ -61,5 +61,6 @@ To deliver an interactive, holistic analytics platform enabling credit card issu
 - **Operational Efficiency:** Automated risk alerts reduced manual review workload by 30%.
 
 ---
+Dashboard Preview-
 
-Let me know if you'd like this formatted into a presentation slide, case study document, or portfolio entry.
+![BlinkIT Sales Dashboard](https://github.com/idlink-analytics/Credit-Card-Analysis/blob/main/Credit%20Card%20Analysis.jpg)
